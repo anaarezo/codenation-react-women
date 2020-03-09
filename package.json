@@ -1,0 +1,34 @@
+{
+  "name": "react-women",
+  "version": "1.0.0",
+  "description": "Codenation React Woman",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anaarezo/react-women.git"
+  },
+  "keywords": [
+    "codenation",
+    "react",
+    "javascript",
+    "course"
+  ],
+  "author": "Ana Laura Arezo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anaarezo/react-women/issues"
+  },
+  "homepage": "https://github.com/anaarezo/react-women#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "form-data": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
